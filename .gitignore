@@ -33,3 +33,6 @@ build/
 
 ### MacOS metadata files ###
 .DS_Store
+
+### SDKMAN! config file ###
+.sdkmanrc
